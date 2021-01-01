@@ -19,6 +19,10 @@ background: linear-gradient(rgb(253, 2, 2), grey);
     margin-right: auto;
 }
 
+.navbar-toggler-icon{
+    background-image: url(./aero.png);
+}
+
 .btn{
     box-shadow: 0 4px 8px 0 rgba(170, 22, 22), 0 6px 15px 0 rgba(170, 22, 22);
     margin-left:10px;
